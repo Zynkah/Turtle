@@ -9,4 +9,4 @@ The tool we will use for our illustrations is Python’s turtle graphics module 
 
 
 # Sierpinksi Triangle
-![Python Turtle Graphics 3_10_2023 10_02_44 AM](https://user-images.githubusercontent.com/26981725/224390665-bda06bce-0735-4631-87d6-cb6eda90a9a4.png)# turtle
+![Python Turtle Graphics 3_10_2023 10_02_44 AM](https://user-images.githubusercontent.com/26981725/224390665-bda06bce-0735-4631-87d6-cb6eda90a9a4.png)
