@@ -39,8 +39,8 @@ def sierpinski(points, degree, myTurtle):
 def main():
     myTurtle = turtle.Turtle()
     myWin = turtle.Screen()
-    myPoints = [[-200, -150], [0, 200], [200, -150]]
-    sierpinski(myPoints, 4, myTurtle)
+    myPoints = [[-200, -150], [0, 200], [200, -150]] # change the size of the traingle
+    sierpinski(myPoints, 4, myTurtle) # change the amount of triangles in the triangle
     myWin.exitonclick()
 
 
